@@ -1,3 +1,4 @@
 # BD_Telery
 ## Здесь находятся все файлы для юзербота Telery.
-![Без имени](https://github.com/Blaing-7542/BD_Telery/assets/149149385/d8edaa59-d5f2-401c-a7bf-d015628c3d35)
+
+![zvezdy_kosmos_temnota_919049_3840x2160](https://github.com/Blaing-7542/BD_Telery/assets/149149385/1dab252e-9fd4-4a0c-a80e-5e16c1220eaa)
